@@ -1,6 +1,6 @@
 # RegexTut
 
-Introductory paragraph (replace this with your text)
+Regex: regular expression is a tool used to search through a string of text, it can check if a string contains a certain letter or phrase. It can also be used for matching, and manipulating strings of text based on a specific pattern. Regex patterns can be used for other tasks such as validation, text extraction, and data transformation.
 
 ## Summary
 
