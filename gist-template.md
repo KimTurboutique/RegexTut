@@ -1,12 +1,12 @@
 # RegexTut
 
-Regex: regular expressions are patterns used to search through a string of text, it can check if a string contains a certain letter or phrase. It can also be used for matching, and manipulating strings of text based on a specific pattern. Regex patterns can be used for other tasks such as validation, text extraction, and data transformation.
+Regex: regular expressions are patterns used to search through a string of text, it can check if a string contains a certain letter or phrase. It can also be used for matching, and manipulating strings of text based on a specific pattern. Regex patterns can be used for other tasks such as validation, text extraction, and data transformation. Regular expressions differ based on the programming language.
 
 ## Summary
 
 <img width="652" alt="regex" src="https://github.com/KimTurboutique/RegexTut/assets/127644189/95204e17-7d3f-4d22-9330-76856479e5ea">
 
-In this simple regex for Javascript '/' indicates the start of a regular expression, the character set '[ esm ]' was then used to match any character in the set an "e", "s" and a "m" the '\w' matches and word character and the + quantifier matched 1 or more of the proceding tokens. The '/' represents the end of the regular expression and beginning of the expression flags 'g' for the global matching, 'i' for case-insensitive and 'm' for the multiline matching flag. This regex was used to search for characters e,s and m in the string of text which resulted in 11 matches, see below:
+In this simple regex in Javascript '/' indicates the start of a regular expression, the character set '[ esm ]' was then used to match any character in the set an "e", "s" and a "m" the '\w' matches and word character and the + quantifier matched 1 or more of the proceding tokens. The '/' represents the end of the regular expression and beginning of the expression flags 'g' for the global matching, 'i' for case-insensitive and 'm' for the multiline matching flag. This regex was used to search for characters e,s and m in the string of text which resulted in 11 matches, see below:
 
 <img width="676" alt="regexfull" src="https://github.com/KimTurboutique/RegexTut/assets/127644189/4e3d7470-e3b3-4889-826f-7a0795c00809">
 
