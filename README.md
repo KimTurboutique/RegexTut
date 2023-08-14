@@ -14,4 +14,4 @@ This project is a tutorial about regular expressions, it was written for web dev
 
 ### Contributors
 
-* [](https://github.com/KimTurboutique)
+* [Github Profile](https://github.com/KimTurboutique)
