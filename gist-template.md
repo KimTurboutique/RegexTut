@@ -4,12 +4,11 @@ Regex: regular expressions are patterns used to search through a string of text,
 
 ## Summary
 
-![Regex Snippet](/Week17/RegexTut/snippets/regex.png)
+<img width="652" alt="regex" src="https://github.com/KimTurboutique/RegexTut/assets/127644189/95204e17-7d3f-4d22-9330-76856479e5ea">
 
 In this simple regex for Javascript '/' indicates the start of a regular expression a,the character set '[ esm ]' was then used to match any character in the set a "e", "s" and a "m" the '\w' matches and word character and the + qunatifier matched 1 or more of the proceding tokens. The '/' represents the end of the regular expression and beginning of the expression flags 'g' for the global matching, 'i' for case-insensitive and 'm' for the multiline matching flag. This regex was used to search for characters e,s and m in the string of texts which results in 11 matches, see below:
 
-![Regex Snippet.1](/Week17/RegexTut/snippets/regexfull.png)
-
+<img width="676" alt="regexfull" src="https://github.com/KimTurboutique/RegexTut/assets/127644189/4e3d7470-e3b3-4889-826f-7a0795c00809">
 
 
 ## Table of Contents
@@ -51,13 +50,15 @@ Are the same as bracket expressions. There are different explanations: 1.Simple 
 
 The OR operator uses the pipe symbol '|' it allows you to specify between two patterns for example used in my test paragraph below we could specify between two words 'for|my' the pattern would match either "for" or "my" in the text.
 
-![The OR Operator](/week17/RegexTut/snippets/OR%20operator.png)
+<img width="705" alt="OR operator" src="https://github.com/KimTurboutique/RegexTut/assets/127644189/08bc8f44-48a6-465a-b491-41910c3044d1">
+
 
 ### Flags
 
 Flags are modifiers that you can apply to change the way the pattern is matched they control the aspects of matching above I used the global flag 'g' which matches all occurences in the test pargraph no just the first one, secondly I used the case-insensitive flag 'i' which causes the pattern to match regardless of the letter case for example in the first line the word "my" was matched as well as in the second line the word "My" at the beginning was matched as well. I also used the multiline flag to match the start and end of each line. Flags are specific to the programming language in Javascript they are added to the end of the regex literal.
 
-![Flags](/Week17/RegexTut/snippets/flags.png)
+<img width="711" alt="flags" src="https://github.com/KimTurboutique/RegexTut/assets/127644189/c581b305-c5b4-417d-89cd-5142e5f7c0eb">
+
 
 
 ### Character Escapes
