@@ -67,4 +67,6 @@ These are used to match specific characters in a more readable way. In my test I
 
 ## Author
 
-This tutorial was written by Kimberly R. a committed Full Stack Web Development student  
+This tutorial was curated by Kimberly R. a committed Full Stack Web Development student that is also a full time parent and business owner who has dedicated time and research to get a better understanding of regular expressions and used that knowledge to put this tutorial together in hopes it will be able to help a fellow web development student.
+
+* [Author's Github: ](https://github.com/KimTurboutique)
